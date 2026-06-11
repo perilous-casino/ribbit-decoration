@@ -1,3 +1,4 @@
-![banner](https://github.com/perilous-casino/ribbit-decoration/blob/main/ribbiy.png?raw=true)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/perilous-casino/ribbit-decoration/main/ribbiy.png" alt="image_alt">
+</p>
   °❀⋆.ೃ࿔*♥~ i love ribbit sm omlml ~♥*ೃ࿔⋆❀°
